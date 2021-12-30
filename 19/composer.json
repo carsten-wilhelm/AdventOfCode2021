@@ -1,0 +1,18 @@
+{
+    "name": "carsten/19",
+    "autoload": {
+        "psr-4": {
+            "Carsten\\19\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Carsten Wilhelm",
+            "email": "carsten.wilhelm@macaw.net"
+        }
+    ],
+    "require": {
+        "numphp/numphp": "^1.2",
+        "mcordingley/linearalgebra": "^1.3"
+    }
+}
